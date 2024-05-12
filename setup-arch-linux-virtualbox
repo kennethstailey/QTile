@@ -1,0 +1,2 @@
+yay -S virtualbox vagrant
+vagrant plugin install vagrant-virtualbox
