@@ -26,6 +26,16 @@ Position the mouse cursor over the xterm window to guide the keyboard input to i
 
 In the xterm window run:
 
-``qtile start`
+`qtile start`
 
 Ta-da, you are using QTile.
+
+## Screenshots
+
+This is `virt-manager` with the QTile demo VM in it:
+
+![screenshot showing virt-manager with the QTile demo VM in it](virt-manager-example.png)
+
+This is Vagrant running the installation of the VirtualBox QTile demo VM:
+
+![screenshot Vagrant running the installation of the VirtualBox QTile demo VM](virtualbox-example.png)
