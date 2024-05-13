@@ -39,3 +39,9 @@ This is `virt-manager` with the QTile demo VM in it:
 This is Vagrant running the installation of the VirtualBox QTile demo VM:
 
 ![screenshot Vagrant running the installation of the VirtualBox QTile demo VM](virtualbox-example.png)
+
+## Video
+
+Video of Vagrant running (12 minutes long)
+
+[![Video of Vagrant running (12 minutes long)](https://img.youtube.com/vi/o9a6sVp4tdI/0.jpg)](https://www.youtube.com/watch?v=o9a6sVp4tdI)
